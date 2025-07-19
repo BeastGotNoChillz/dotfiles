@@ -1,1 +1,1 @@
-paste this gtk css into you gtk file chooser in your config files if you dont want to see a massive file explorer box while downloading files off the internet
+paste this 'gtk-filechooser-dialog-fix.css' file into your 'gtk 3.0' folder in your config files if you dont want to see a massive file explorer box while downloading files off the browser
